@@ -1,7 +1,3 @@
-<!-- Header Section -->
-<p align="center">
-  <img src="your_profile_image_url_here" alt="Your Name's GitHub Profile" width="200"/>
-</p>
 
 # Hello, I'm Lucas 👋
 
