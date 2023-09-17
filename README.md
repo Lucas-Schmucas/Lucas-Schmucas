@@ -17,7 +17,7 @@ I'm a dedicated developer who enjoys both creating and fixing bugs.
 ## What I Do
 
 - 🌐 Crafting web applications using Laravel.
-- 🔒 Interested in privacy protection and CTFs
+- 🔒 Interested in data privacy
 - 👷 Currently working on [sw-character-generator](https://github.com/Lucas-Schmucas/sw-character-generator)
 
 ## Connect with Me
